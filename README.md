@@ -12,17 +12,3 @@ Visual Studio ASP.NET MVC web Project
 SQL Server 17 Express Edition or later
 
 Check in the project source into Github using Git tools.
-
-Application Requirements:
-
-The pages must be done using Bootstrap and must be mobile-responsive.
-
-All data must be stored and retrieved using Data Access Layer and/or EntityFramework.
-
-Following requirements should be met:
-
-Some of the source code should be tracked on GitHub repositories. You need to document the tracked files that are ignored during the final push to the GitHub repository.
-
-The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository in the document.
-
-The step-by-step process involved in completing this task should be documented.
